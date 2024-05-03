@@ -63,6 +63,22 @@ These open-source technologies provided a comprehensive and efficient workflow f
 
 ### Schematic
 
-  - Pre-charge circuit
+  - Pre-charge circuit<br/>
+   ![img](images/precharge_ckt.png) <br/>
+   - 6T- SRAM Cell Schematic <br/> 
+     ![img](images/Sramcell.png) <br/>
+
+   - Write Circuit Schematic <br/>
+     ![img](images/Write_ckt.png) <br/>
+    - Layout of 6T Sram cell <br/>
+     ![img](images/sramcell_layout.png) <br/>
+     - Pre-Layout Simulation <br/>
+     ![img](images/pre_lyt_sim.png)  <br/>
+
+## Contributions
+
+### Overview
+
+This project focusses on full post layout simulation and verification of a 6T SRAM Cell using open_pdk skywater130
 
 
