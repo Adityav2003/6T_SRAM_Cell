@@ -6,6 +6,6 @@ vi vin gnd pulse(0 1.8 1n 1n 1n 5n 10n)
 X0 vout vin gnd gnd sky130_fd_pr__nfet_01v8  w=120n l=20n
 X1 vout vin vdd vdd sky130_fd_pr__pfet_01v8  w=210n l=20n
 C0 vdd gnd 2.33447f **FLOATING
-.lib "/home/avs/whyRD_eda_bundle/open_pdks/sky130/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
+.lib "" tt
 .tran 0.1n 90n
 .save all
